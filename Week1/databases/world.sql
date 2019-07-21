@@ -5,7 +5,7 @@ where Population>8000000;
 select Name
 from country
 where Name LIKE "%land%";
-select Name
+select Namez
 from city
 where Population between 500000 and 1000000;
 select Name
